@@ -1,0 +1,3 @@
+files:
+  - source: /**/
+    translation: /%osx_code%/Mals/%original_path%/%original_file_name%
